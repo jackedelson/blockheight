@@ -1,0 +1,4 @@
+# There are three different programs in this project. In the ProjectileDemonstration program, you can run and view different launch angles
+# that a swimmer could dive off of a block. In the DresselStart program, we modeled world class swimmer Caeleb Dressel's start and his 
+# trajectory as a projectile. In the ProjectileDemonstration program, users can input their own starting block height as well as the limits
+# to the graph's axis. At a certain block height, the program will warn users of the dangers of diving in water from that height.
